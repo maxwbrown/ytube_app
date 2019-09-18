@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  position: relative;
+
+}
+
+.absolute {
+  position: absolute;
+  top: 37px;
+  margin-left: 650px;
+}
+
